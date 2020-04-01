@@ -14,7 +14,7 @@
                     Original Logo on <strong>white</strong> background
                 </p>
         
-                <a href="/images/logo.svg" class="border border-grey-light px-8 py-2 rounded-full text-black font-bold text-xs">logo.svg</a>
+                <a href="/images/logo.svg" class="button">logo.svg</a>
             </div>
         </div>
 
@@ -28,7 +28,7 @@
                     Negative Logo with accent on <strong>dark</strong> background
                 </p>
         
-                <a href="/images/negative-logo.svg" class="border border-grey-light px-8 py-2 rounded-full text-black font-bold text-xs">negativelogo.svg</a>
+                <a href="/images/negative-logo.svg" class="button">negativelogo.svg</a>
             </div>
         </div>
     </div>
